@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    height: 40px;
+    background-color: antiquewhite;
+    padding: 10px;
+    align-items: center;
+    border-radius: 2px;
+    width: 100%;
+    transform: translateX(-13px);
+}
+.buttonLogout{
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:5px;
+    cursor: pointer;
+}
+.buttonLogout:hover{
+    background: rgb(57, 57, 69);
+    color:white;
+}

@@ -1,7 +1,10 @@
 .container{
     margin: auto;
+    margin-top: 0;
+    margin-bottom: 0;
     background: #313866;
     max-width: 500px;
+    height: 100%;
     border-radius: 10px;
     color: white;
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.7);
@@ -42,5 +45,14 @@ box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.7);
     padding: 5px;
     border-radius: 10px;
     color: aliceblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+.button__container_2 input:hover{
+    background: white;
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+    color: black;
     font-size: 20px;
 }

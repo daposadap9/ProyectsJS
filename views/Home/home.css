@@ -1,0 +1,20 @@
+.buttonEnviar{
+    background:black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+.buttonEnviar:hover{
+    opacity: 0.7;
+}
+.boton-reiniciar2{
+    background:black;
+        color: white;
+        border-radius: 10px;
+        padding: 3px;
+        cursor: pointer;
+    }
+.boton-reiniciar2:hover{
+        opacity: 0.7;
+}

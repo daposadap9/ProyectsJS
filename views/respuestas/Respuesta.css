@@ -1,0 +1,10 @@
+.boton-reiniciar{
+background:black;
+    color: white;
+    border-radius: 10px;
+    padding: 3px;
+    cursor: pointer;
+}
+.boton-reiniciar:hover{
+    opacity: 0.7;
+}
